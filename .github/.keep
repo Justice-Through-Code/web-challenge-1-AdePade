@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My First Website</title>
+</head>
+<body>
+    <h1>My First Website!</h1>
+    <p>Let's <em>see how this</em> <strong>challenge</strong> will look.</p>
+    <ul>
+        <p>Thing I want from the store!</p>
+        <li>Pizza</li>
+        <li><b>Bread</b></li>
+        <li>Milk</li>
+    </ul>
+    <ol>
+        <li>Butter</li>
+        <li>Water</li>
+    </ol>
+</body>
+</html>
